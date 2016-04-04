@@ -1,0 +1,20 @@
+{% comment %}
+	Shamelessly stolen from http://stackoverflow.com/questions/25452429/excluding-page-from-jekyll-navigation-bar
+{% endcomment %}
+{% assign navurl = page.url | remove: 'index.html' %}
+<ul>
+{% for item in include.nav %}
+    <li>
+        <a href="{{ item.url }}">
+            {% if item.url == navurl %}
+                <b>{{ item.title }}</b>
+            {% else %}
+                {{ item.title }}
+            {% endif %}
+        </a>
+    </li>
+    {% if item.subitems and navurl contains item.url %}
+        {% include nav.html nav=item.subitems %}
+    {% endif %}
+{% endfor %}
+</ul>

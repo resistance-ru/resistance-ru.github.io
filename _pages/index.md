@@ -4,10 +4,17 @@ title: Материалы
 permalink: /pages
 permalink: /
 ---
-А тут у нас куча материалов и крутая такая менюшка.
 
+[Что такое аномалии или <<как здесь ходить>>](/pages/anomalies-101)
+
+[Кто такая Аколайт?](/pages/who-is-acolyte)
+
+[Кто такая Джахан?](/pages/who-is-jahan) **[WIP]**
+
+{% comment %}
 [Проект «Ниантик»](/pages/niantic-project)
 
 [Ещё что-нибудь](/pages/escho-chto-nibud)
 
 Материалы для перевода брать [отсюда](https://fevgames.net/ingress/lore/characters/).
+{% endcomment %}
