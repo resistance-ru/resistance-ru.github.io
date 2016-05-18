@@ -160,7 +160,7 @@ _— alex-alex / Alex Studnička_
 # IITC
 
 Мы не можем упомянуть Broot и iOS-Ingress и забыть про IITC.
-Если кто не в курсе, IITC означает «Ingress Intel Total Conversion». Это модификация с помощью Javascript обычной игровой карты (ingress.com/intel), которая работает быстрее и содержит кучу новых фич.
+Если кто не в курсе, IITC означает «Ingress Intel Total Conversion». Это модификация с помощью Javascript обычной игровой карты (<https://ingress.com/intel>), которая работает быстрее и содержит кучу новых фич.
 
 На этапе роста не обошлось без проблем, первой из которых стало [удаление](https://github.com/breunigs/ingress-intel-total-conversion) всего проекта его создателем, _breunigs_. Вот, что он об этом рассказывает:
 
