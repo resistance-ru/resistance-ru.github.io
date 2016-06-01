@@ -17,6 +17,8 @@ permalink: /
 
 [История Ингресса (часть 4)](/pages/the-history-of-ingress-part-4)
 
+[История Ингресса (часть 5)](/pages/the-history-of-ingress-part-5)
+
 {% comment %}
 [Кто такая Джахан?](/pages/who-is-jahan) **[WIP]**
 
