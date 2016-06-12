@@ -4,6 +4,10 @@ title: История Ингресса (часть 6)
 permalink: /pages/the-history-of-ingress-part-6
 ---
 
+| [Часть 1](/pages/the-history-of-ingress-part-1) | [Часть 2](/pages/the-history-of-ingress-part-2) | [Часть 3](/pages/the-history-of-ingress-part-3) | [Часть 4](/pages/the-history-of-ingress-part-4) | [Часть 5](/pages/the-history-of-ingress-part-5) | **Часть 6** |
+{:.kramdowntablewithborders}
+
+\\
 _Этот пост — перевод. Исходный пост от Fev Games: <https://fevgames.net/the-history-of-ingress-part-6/>_
 
 ---

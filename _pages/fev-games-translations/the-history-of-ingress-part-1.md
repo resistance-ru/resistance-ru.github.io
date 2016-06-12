@@ -4,7 +4,14 @@ title: История Ингресса (часть 1)
 permalink: /pages/the-history-of-ingress-part-1
 ---
 
+| **Часть 1** | [Часть 2](/pages/the-history-of-ingress-part-2) | [Часть 3](/pages/the-history-of-ingress-part-3) | [Часть 4](/pages/the-history-of-ingress-part-4) | [Часть 5](/pages/the-history-of-ingress-part-5) | [Часть 6](/pages/the-history-of-ingress-part-6) |
+{:.kramdowntablewithborders}
+
+\\
 _Этот пост — перевод. Исходный пост от Fev Games: <https://fevgames.net/the-history-of-ingress-part-1/>_
+
+---
+<br />
 
 Добро пожаловать в серию постов, описывающих всю историю Ингресса. Сама игра и сообщество вокруг неё прошли долгий путь с ноября 2012 года, и мы надеемся охватить все изменения, произошедшие с тех пор. В этой серии собраны вместе опыт и знания всей команды Fev Games.
 
