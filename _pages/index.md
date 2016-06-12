@@ -9,15 +9,14 @@ permalink: /
 
 [Кто такая Аколайт?](/pages/who-is-acolyte)
 
-[История Ингресса (часть 1)](/pages/the-history-of-ingress-part-1)
+История Ингресса:
 
-[История Ингресса (часть 2)](/pages/the-history-of-ingress-part-2)
-
-[История Ингресса (часть 3)](/pages/the-history-of-ingress-part-3)
-
-[История Ингресса (часть 4)](/pages/the-history-of-ingress-part-4)
-
-[История Ингресса (часть 5)](/pages/the-history-of-ingress-part-5)
+* [Часть 1](/pages/the-history-of-ingress-part-1)
+* [Часть 2](/pages/the-history-of-ingress-part-2)
+* [Часть 3](/pages/the-history-of-ingress-part-3)
+* [Часть 4](/pages/the-history-of-ingress-part-4)
+* [Часть 5](/pages/the-history-of-ingress-part-5)
+* [Часть 6](/pages/the-history-of-ingress-part-6)
 
 {% comment %}
 [Кто такая Джахан?](/pages/who-is-jahan) **[WIP]**
