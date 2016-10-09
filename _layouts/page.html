@@ -12,5 +12,14 @@ layout: default
   </div>
 
 </article>
-<script src="https://apis.google.com/js/platform.js" async defer></script>
-<g:plus action="share"></g:plus>
+<style type="text/css">
+	.share-buttons > table, .share-buttons > div {
+		display: inline-block;
+		margin-right: 10px;
+	}
+</style>
+<div class="share-buttons">
+	<script src="https://apis.google.com/js/platform.js" async defer></script>
+	<script type="text/javascript">document.write(VK.Share.button(false,{type: "round", text: "Поделиться"}));</script>
+	<g:plus action="share"></g:plus>
+</div>
