@@ -4,6 +4,8 @@ title: Интервью Джона Хэнке для Recode Decode
 permalink: /pages/interview-from-hanke
 ---
 
+![](http://i.imgur.com/5sps6xa.png)
+
 [Оригинал интервью на английском](http://www.recode.net/2016/10/4/13166612/john-hanke-niantic-pokemon-go-recode-decode-podcast-transcript)
 
 **TL;DR** \\
