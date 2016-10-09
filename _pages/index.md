@@ -9,6 +9,8 @@ permalink: /
 
 [Кто такая Аколайт?](/pages/who-is-acolyte)
 
+[Перевод интервью Джона Хэнке](/pages/interview-from-hanke)
+
 История Ингресса:
 
 * [Часть 1](/pages/the-history-of-ingress-part-1)
