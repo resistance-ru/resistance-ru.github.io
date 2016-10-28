@@ -52,7 +52,7 @@ permalink: /pages/ingress-comics
 <table border="0" cellspacing="0" cellpadding="0" style="margin:0 auto">
   <tr>
     <td>
-	<img style="width: 80%; height: auto" src="http://resistance-ru.github.io/img/comic-translation/08.png" border="0">
+	<img style="width: 65%; height: auto" src="http://resistance-ru.github.io/img/comic-translation/08.png" border="0">
 	</td>
   </tr>
 </table>
@@ -166,7 +166,7 @@ permalink: /pages/ingress-comics
 <table border="0" cellspacing="0" cellpadding="0" style="margin:0 auto">
   <tr>
     <td>
-	<img style="width: 65%; height: auto" src="http://resistance-ru.github.io/img/comic-translation/30.png" border="0">
+	<img style="width: 45%; height: auto" src="http://resistance-ru.github.io/img/comic-translation/30.png" border="0">
 	</td>
   </tr>
 </table>
@@ -213,7 +213,7 @@ permalink: /pages/ingress-comics
 <table border="0" cellspacing="0" cellpadding="0" style="margin:0 auto">
   <tr>
     <td>
-	<img style="width: 80%; height: auto" src="http://resistance-ru.github.io/img/comic-translation/39.png" border="0">
+	<img style="width: 60%; height: auto" src="http://resistance-ru.github.io/img/comic-translation/39.png" border="0">
 	</td>
   </tr>
 </table>
@@ -227,7 +227,7 @@ permalink: /pages/ingress-comics
 <table border="0" cellspacing="0" cellpadding="0" style="margin:0 auto">
   <tr>
     <td>
-	<img style="width: 80%; height: auto" src="http://resistance-ru.github.io/img/comic-translation/41.png" border="0">
+	<img style="width: 60%; height: auto" src="http://resistance-ru.github.io/img/comic-translation/41.png" border="0">
 	</td>
   </tr>
 </table>
