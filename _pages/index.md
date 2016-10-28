@@ -11,6 +11,8 @@ permalink: /
 
 [Перевод интервью Джона Хэнке](/pages/interview-from-hanke)
 
+[Комикс "Keep Calm and Catch Them All: игры в дополненной реальности до Pokémon Go"](/pages/ingress-comics)
+
 История Ингресса:
 
 * [Часть 1](/pages/the-history-of-ingress-part-1)
