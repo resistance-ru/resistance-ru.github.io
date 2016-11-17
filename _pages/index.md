@@ -13,6 +13,8 @@ permalink: /
 
 [Комикс "Keep Calm and Catch Them All: игры в дополненной реальности до Pokémon Go"](/pages/ingress-comics)
 
+[Двойной AP: как быстрее прокачаться](/pages/double-ap)
+
 История Ингресса:
 
 * [Часть 1](/pages/the-history-of-ingress-part-1)
